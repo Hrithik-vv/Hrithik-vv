@@ -46,13 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hrithik-vv&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🎯 Fun Projects I'm Building
 - 💡 Interactive product UIs  
 - 🛒 E-commerce platforms using the Fake Store API  
